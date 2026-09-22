@@ -1,7 +1,7 @@
 {
-  "version": "0.3.3",
-  "notes": "实例 Home 增加 TPS 与状态卡片",
+  "version": "0.3.4",
+  "notes": "登录与面板加入原画素材美化",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.3/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.3/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.4/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.4/trsc-linux-amd64"
 }
