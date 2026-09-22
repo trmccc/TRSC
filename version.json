@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10",
-  "notes": "登录不再模糊，RCON 常连接，配置统一排版",
+  "version": "0.3.11",
+  "notes": "按钮物品图标透明底",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.10/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.10/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.11/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.11/trsc-linux-amd64"
 }
