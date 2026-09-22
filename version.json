@@ -1,7 +1,7 @@
 {
-  "version": "0.3.5",
-  "notes": "登录自动检查更新、一键更新进度条",
+  "version": "0.3.6",
+  "notes": "透明 Logo，本机与实例性能曲线",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.5/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.5/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.6/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.6/trsc-linux-amd64"
 }
