@@ -1,7 +1,7 @@
 {
-  "version": "0.3.6",
-  "notes": "透明 Logo，本机与实例性能曲线",
+  "version": "0.3.9",
+  "notes": "红石拉杆开关与物品图标按钮",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.6/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.6/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.9/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.9/trsc-linux-amd64"
 }
