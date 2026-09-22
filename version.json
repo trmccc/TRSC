@@ -1,7 +1,7 @@
 {
-  "version": "0.3.9",
-  "notes": "红石拉杆开关与物品图标按钮",
+  "version": "0.3.10",
+  "notes": "登录不再模糊，RCON 常连接，配置统一排版",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.9/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.9/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.10/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.10/trsc-linux-amd64"
 }
