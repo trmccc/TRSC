@@ -1,7 +1,7 @@
 {
-  "version": "0.3.11",
-  "notes": "按钮物品图标透明底",
+  "version": "0.3.12",
+  "notes": "私有仓库更新检查提示与回退",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.11/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.11/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.12/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.12/trsc-linux-amd64"
 }
