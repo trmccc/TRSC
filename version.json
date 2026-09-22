@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "notes": "GitHub 安装包自动覆盖更新",
+  "version": "0.3.3",
+  "notes": "实例 Home 增加 TPS 与状态卡片",
   "url": "https://github.com/trmccc/TRSC/releases",
-  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.2/trsc-windows-amd64.exe",
-  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.2/trsc-linux-amd64"
+  "windows_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.3/trsc-windows-amd64.exe",
+  "linux_url": "https://github.com/trmccc/TRSC/releases/download/v0.3.3/trsc-linux-amd64"
 }
