@@ -1,0 +1,10 @@
+web/node_modules/
+web/dist/
+bin/
+data/
+*.exe
+trsc-linux-amd64
+.DS_Store
+panel.log
+*.pid
+*.lock
